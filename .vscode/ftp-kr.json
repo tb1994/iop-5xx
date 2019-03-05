@@ -1,0 +1,16 @@
+{
+    "host": "iop-5xx.tbtestsite.com",
+    "username": "student_iop-5xx.tbtestsite.com",
+    "password": "raccpass",
+    "remotePath": "iop-5xx.tbtestsite.com",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
