@@ -1,0 +1,50 @@
+/*https://bootsnipp.com/snippets/xrXQN*/
+
+*{box-sizing:border-box;margin:0;padding:0;}
+figure{
+    display:inline-block;
+    position:relative;
+    margin:auto !important;
+    
+}
+img{
+    vertical-align:middle;
+    transition:-webkit-filter .25s linear 99999s,filter .25s linear 99999s;
+    float: right;
+}
+img:hover{
+    -webkit-filter:grayscale(1);
+    filter:grayscale(1);
+    transition-delay:0s;
+    border-radius: 50%;
+}
+figure::after{
+    animation:colours 5s linear infinite;
+    bottom:0;
+    content:"";
+    left:0;
+    mix-blend-mode:overlay;
+    opacity:0;
+    pointer-events:none;
+    position:absolute;
+    right:0;
+    top:0;
+    transition:opacity .25s linear 99999s;
+}
+figure:hover::after{
+    opacity:.75;
+    transition-delay:0s;
+}
+.paused::after{
+    animation-play-state:paused;
+}
+
+@keyframes colours{
+    0%{background:#f00;}
+    16.667%{background:#ff0;}
+    33.333%{background:#0f0;}
+    50%{background:#0ff;}
+    66.667%{background:#00f;}
+    83.333%{background:#f0f;}
+    100%{background:#f00;}
+}
