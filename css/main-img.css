@@ -1,22 +1,26 @@
 /*https://bootsnipp.com/snippets/xrXQN*/
 
-*{box-sizing:border-box;margin:0;padding:0;}
+*{box-sizing:border-box; margin:0; padding:0;}
 figure{
     display:inline-block;
     position:relative;
+    bottom:-110px;
     margin:auto !important;
+    
     
 }
 img{
     vertical-align:middle;
     transition:-webkit-filter .25s linear 99999s,filter .25s linear 99999s;
     float: right;
+    
 }
 img:hover{
     -webkit-filter:grayscale(1);
     filter:grayscale(1);
     transition-delay:0s;
     border-radius: 50%;
+    
 }
 figure::after{
     animation:colours 5s linear infinite;
@@ -26,7 +30,7 @@ figure::after{
     mix-blend-mode:overlay;
     opacity:0;
     pointer-events:none;
-    position:absolute;
+    position: absolute;
     right:0;
     top:0;
     transition:opacity .25s linear 99999s;
