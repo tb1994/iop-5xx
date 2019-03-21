@@ -1,0 +1,95 @@
+{
+  "ftp://iop-5xx.tbtestsite.com@student_iop-5xx.tbtestsite.com": {
+    "iop-5xx.tbtestsite.com": {
+      ".editorconfig": {
+        "type": "-",
+        "size": 204,
+        "lmtime": 0,
+        "modified": false
+      },
+      "404.html": {
+        "type": "-",
+        "size": 1317,
+        "lmtime": 0,
+        "modified": false
+      },
+      "LICENSE.txt": {
+        "type": "-",
+        "size": 1075,
+        "lmtime": 0,
+        "modified": false
+      },
+      "README.md": {
+        "type": "-",
+        "size": 558,
+        "lmtime": 0,
+        "modified": false
+      },
+      "bp5-htaccess": {
+        "type": "-",
+        "size": 49254,
+        "lmtime": 0,
+        "modified": false
+      },
+      "browserconfig.xml": {
+        "type": "-",
+        "size": 439,
+        "lmtime": 0,
+        "modified": false
+      },
+      "css": {},
+      "doc": {},
+      "favicon.ico": {
+        "type": "-",
+        "size": 15086,
+        "lmtime": 0,
+        "modified": false
+      },
+      "humans.txt": {
+        "type": "-",
+        "size": 244,
+        "lmtime": 0,
+        "modified": false
+      },
+      "icon.png": {
+        "type": "-",
+        "size": 4029,
+        "lmtime": 0,
+        "modified": false
+      },
+      "index.html": {
+        "type": "-",
+        "size": 4585,
+        "lmtime": 0,
+        "modified": false
+      },
+      "js": {},
+      "robots.txt": {
+        "type": "-",
+        "size": 83,
+        "lmtime": 0,
+        "modified": false
+      },
+      "site.webmanifest": {
+        "type": "-",
+        "size": 146,
+        "lmtime": 0,
+        "modified": false
+      },
+      "tile-wide.png": {
+        "type": "-",
+        "size": 1854,
+        "lmtime": 0,
+        "modified": false
+      },
+      "tile.png": {
+        "type": "-",
+        "size": 3482,
+        "lmtime": 0,
+        "modified": false
+      },
+      "vendor": {}
+    }
+  },
+  "$version": 1
+}
