@@ -9,3 +9,5 @@ https://tb1994.github.io/iop-5xx/
 
 
 2/26/2019----------created new branch 500-0 -Added bootstrap resources to project , added bootstrap elements into the index.html file.
+3/21/2019--------------cleaned up some boilerplate files, fleshed out website for the most part, still have to add in some css to position
+everything to my liking.
