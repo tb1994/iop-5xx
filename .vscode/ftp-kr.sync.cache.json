@@ -7,6 +7,18 @@
         "lmtime": 0,
         "modified": false
       },
+      ".gitattributes": {
+        "type": "-",
+        "size": 3443,
+        "lmtime": 1549393351912,
+        "modified": false
+      },
+      ".gitignore": {
+        "type": "-",
+        "size": 12,
+        "lmtime": 1551202645621,
+        "modified": false
+      },
       "404.html": {
         "type": "-",
         "size": 1317,
@@ -21,9 +33,19 @@
       },
       "README.md": {
         "type": "-",
-        "size": 558,
-        "lmtime": 0,
+        "size": 724,
+        "lmtime": 1553167808068,
         "modified": false
+      },
+      "assets": {
+        "lmages": {
+          "cannabis.png": {
+            "type": "-",
+            "size": 5127,
+            "lmtime": 1553167808076,
+            "modified": false
+          }
+        }
       },
       "bp5-htaccess": {
         "type": "-",
@@ -37,8 +59,88 @@
         "lmtime": 0,
         "modified": false
       },
-      "css": {},
-      "doc": {},
+      "css": {
+        "main.css": {
+          "type": "-",
+          "size": 6348,
+          "lmtime": 0,
+          "modified": false
+        },
+        "normalize.css": {
+          "type": "-",
+          "size": 6393,
+          "lmtime": 0,
+          "modified": false
+        },
+        "scrolling-nav.css": {
+          "type": "-",
+          "size": 335,
+          "lmtime": 0,
+          "modified": false
+        },
+        "main-img.css": {
+          "type": "-",
+          "size": 1071,
+          "lmtime": 1553167808080,
+          "modified": false
+        },
+        "navbar.css": {
+          "type": "-",
+          "size": 968,
+          "lmtime": 1553167808083,
+          "modified": false
+        }
+      },
+      "doc": {
+        "TOC.md": {
+          "type": "-",
+          "size": 1485,
+          "lmtime": 0,
+          "modified": false
+        },
+        "css.md": {
+          "type": "-",
+          "size": 7287,
+          "lmtime": 0,
+          "modified": false
+        },
+        "extend.md": {
+          "type": "-",
+          "size": 25053,
+          "lmtime": 0,
+          "modified": false
+        },
+        "faq.md": {
+          "type": "-",
+          "size": 2588,
+          "lmtime": 0,
+          "modified": false
+        },
+        "html.md": {
+          "type": "-",
+          "size": 11531,
+          "lmtime": 0,
+          "modified": false
+        },
+        "js.md": {
+          "type": "-",
+          "size": 1444,
+          "lmtime": 0,
+          "modified": false
+        },
+        "misc.md": {
+          "type": "-",
+          "size": 6974,
+          "lmtime": 0,
+          "modified": false
+        },
+        "usage.md": {
+          "type": "-",
+          "size": 4339,
+          "lmtime": 0,
+          "modified": false
+        }
+      },
       "favicon.ico": {
         "type": "-",
         "size": 15086,
@@ -59,11 +161,31 @@
       },
       "index.html": {
         "type": "-",
-        "size": 4585,
-        "lmtime": 0,
+        "size": 5510,
+        "lmtime": 1553167808090,
         "modified": false
       },
-      "js": {},
+      "js": {
+        "main.js": {
+          "type": "-",
+          "size": 2061,
+          "lmtime": 1553167808097,
+          "modified": false
+        },
+        "plugins.js": {
+          "type": "-",
+          "size": 730,
+          "lmtime": 0,
+          "modified": false
+        },
+        "scrolling-nav.js": {
+          "type": "-",
+          "size": 956,
+          "lmtime": 0,
+          "modified": false
+        },
+        "vendor": {}
+      },
       "robots.txt": {
         "type": "-",
         "size": 83,
@@ -88,7 +210,144 @@
         "lmtime": 0,
         "modified": false
       },
-      "vendor": {}
+      "vendor": {
+        "bootstrap": {
+          "css": {
+            "bootstrap.css": {
+              "type": "-",
+              "size": 198884,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.css.map": {
+              "type": "-",
+              "size": 467834,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.min.css": {
+              "type": "-",
+              "size": 153188,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.min.css.map": {
+              "type": "-",
+              "size": 608808,
+              "lmtime": 0,
+              "modified": false
+            }
+          },
+          "js": {
+            "bootstrap.bundle.js": {
+              "type": "-",
+              "size": 223928,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.bundle.js.map": {
+              "type": "-",
+              "size": 389126,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.bundle.min.js": {
+              "type": "-",
+              "size": 76314,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.bundle.min.js.map": {
+              "type": "-",
+              "size": 303386,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.js": {
+              "type": "-",
+              "size": 130293,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.js.map": {
+              "type": "-",
+              "size": 237882,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.min.js": {
+              "type": "-",
+              "size": 55781,
+              "lmtime": 0,
+              "modified": false
+            },
+            "bootstrap.min.js.map": {
+              "type": "-",
+              "size": 181825,
+              "lmtime": 0,
+              "modified": false
+            }
+          }
+        },
+        "jquery": {
+          "jquery.js": {
+            "type": "-",
+            "size": 282115,
+            "lmtime": 0,
+            "modified": false
+          },
+          "jquery.min.js": {
+            "type": "-",
+            "size": 86929,
+            "lmtime": 0,
+            "modified": false
+          },
+          "jquery.min.map": {
+            "type": "-",
+            "size": 132370,
+            "lmtime": 0,
+            "modified": false
+          },
+          "jquery.slim.js": {
+            "type": "-",
+            "size": 227166,
+            "lmtime": 0,
+            "modified": false
+          },
+          "jquery.slim.min.js": {
+            "type": "-",
+            "size": 69919,
+            "lmtime": 0,
+            "modified": false
+          },
+          "jquery.slim.min.map": {
+            "type": "-",
+            "size": 105346,
+            "lmtime": 0,
+            "modified": false
+          }
+        },
+        "jquery-easing": {
+          "jquery.easing.compatibility.js": {
+            "type": "-",
+            "size": 1715,
+            "lmtime": 0,
+            "modified": false
+          },
+          "jquery.easing.js": {
+            "type": "-",
+            "size": 4213,
+            "lmtime": 0,
+            "modified": false
+          },
+          "jquery.easing.min.js": {
+            "type": "-",
+            "size": 2532,
+            "lmtime": 0,
+            "modified": false
+          }
+        }
+      }
     }
   },
   "$version": 1
