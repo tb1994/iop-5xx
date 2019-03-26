@@ -1,0 +1,7 @@
+#siteFooter{
+    display: inline;
+    position:absolute;
+    bottom: -100px;
+    background-color: black;
+    -webkit-text-fill-color: blanchedalmond;
+}
