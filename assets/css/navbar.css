@@ -7,6 +7,7 @@
 }
 .navbar-brand img{
     width: 20%;
+    
 }
 .navbar-new-top ul{
     margin-right: 9%;
@@ -16,9 +17,9 @@
     margin-right: 8%;
 }
 .navbar-new-bottom{
-    background-color: #88CC88;
-    box-shadow: 0 5px 6px -2px rgba(0,0,0,.3);
-    border-top: 1px solid #004400;
+    background-color: #55d43f;
+    box-shadow: 0 8px 6px -2px #004400;
+    border-top: 3px solid #004400;
     margin-top: 3.5%;
     height: 50px;
 }
@@ -30,12 +31,14 @@
 }
 .navbar-nav .nav-item a {
     color: rgb(4, 41, 0);
-    font-size: 14px;
+    font-size: 19px;
     font-weight: 600;
     transition: 1s ease;
 }
 .navbar-nav .nav-item a:hover{
-    color: #02758A;
+    color: #111e6c;
+    background-color: #1dd34a;
+   
 }
 .dropdown-menu.show{
     background: #1dd34a;

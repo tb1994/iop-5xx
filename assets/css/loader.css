@@ -1,0 +1,13 @@
+#loaderDiv {
+	background: url("https://media.giphy.com/media/hxPKWYxyRixfq/giphy.gif") no-repeat center center fixed;
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: 0.25;
+	background-size: 120%;
+	background-color: #FFFFFF;
+	display: none;
+  }

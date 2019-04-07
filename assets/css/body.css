@@ -1,0 +1,23 @@
+.rowText{
+    display: block;
+    margin: auto;
+    position: relative;
+    bottom: -160px;
+    background-color: #55d43f;
+    margin-top: 3.5%;
+    border: 5px solid #004400;
+}
+
+.rowText1{
+    display: block;
+    margin: auto;
+    position: relative;
+    bottom: -190px;
+    margin-bottom: 7%;
+    
+}
+
+section, body{
+    min-height: fit-content;
+    padding: 20px 10px;
+}
