@@ -33,11 +33,69 @@
       },
       "README.md": {
         "type": "-",
-        "size": 724,
-        "lmtime": 1553167808068,
+        "size": 886,
+        "lmtime": 1554598949819,
         "modified": false
       },
       "assets": {
+        "css": {
+          "body.css": {
+            "type": "-",
+            "size": 396,
+            "lmtime": 1554231238983,
+            "modified": false
+          },
+          "footer.css": {
+            "type": "-",
+            "size": 157,
+            "lmtime": 1553619872448,
+            "modified": false
+          },
+          "loader.css": {
+            "type": "-",
+            "size": 293,
+            "lmtime": 1554393903521,
+            "modified": false
+          },
+          "main-img.css": {
+            "type": "-",
+            "size": 1111,
+            "lmtime": 1553619047046,
+            "modified": false
+          },
+          "main.css": {
+            "type": "-",
+            "size": 6348,
+            "lmtime": 1551977365618,
+            "modified": false
+          },
+          "navbar.css": {
+            "type": "-",
+            "size": 1047,
+            "lmtime": 1554231771355,
+            "modified": false
+          }
+        },
+        "js": {
+          "app.js": {
+            "type": "-",
+            "size": 1648,
+            "lmtime": 1554397370428,
+            "modified": false
+          },
+          "main.js": {
+            "type": "-",
+            "size": 2061,
+            "lmtime": 1553167808097,
+            "modified": false
+          },
+          "scrolling-nav.js": {
+            "type": "-",
+            "size": 678,
+            "lmtime": 1554397165510,
+            "modified": false
+          }
+        },
         "lmages": {
           "cannabis.png": {
             "type": "-",
@@ -149,8 +207,8 @@
       },
       "index.html": {
         "type": "-",
-        "size": 5523,
-        "lmtime": 1553190432505,
+        "size": 8706,
+        "lmtime": 1554598726865,
         "modified": false
       },
       "js": {
