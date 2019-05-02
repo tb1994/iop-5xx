@@ -15,3 +15,5 @@ everything to my liking.
 4/6/2019----------updated code, site is now more responsive, site CSS is finished. added app.js , and scrolling-nav.js files -Ajax calls not working properly-
 
 5/2/2019---------------fixed ajax calls, all body content is now being pulled from wp. added cards for the education panel code from bootssnip.
+
+5/2/2019B-------- fixed contact form, added footer, changed loader.

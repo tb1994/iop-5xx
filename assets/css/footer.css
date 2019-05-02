@@ -1,7 +1,19 @@
 #siteFooter{
-    display: block;
-    position:absolute;
-    bottom: -100px;
-    background-color: black;
-    -webkit-text-fill-color: blanchedalmond;
+    background-color: #55d43f;
+    color: rgb(4, 41, 0);
+    font-size: 19px;
+    font-weight: 600;
+    box-shadow: 0 8px 6px -2px #004400;
+    border-top: 3px solid #004400;
+    bottom: 0;
+}
+
+#name, #thanks{
+    position: relative;
+    left:300px;
+}
+
+#thanks{
+    position: relative;
+    left: 750px;
 }
