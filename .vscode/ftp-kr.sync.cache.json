@@ -117,26 +117,6 @@
         "lmtime": 1549568108262,
         "modified": false
       },
-      "css": {
-        "main-img.css": {
-          "type": "-",
-          "size": 1112,
-          "lmtime": 1553190432501,
-          "modified": false
-        },
-        "main.css": {
-          "type": "-",
-          "size": 6348,
-          "lmtime": 1551977365618,
-          "modified": false
-        },
-        "navbar.css": {
-          "type": "-",
-          "size": 1011,
-          "lmtime": 1553190432502,
-          "modified": false
-        }
-      },
       "doc": {
         "TOC.md": {
           "type": "-",
@@ -207,17 +187,9 @@
       },
       "index.html": {
         "type": "-",
-        "size": 8706,
+        "size": 8712,
         "lmtime": 1554598726865,
-        "modified": false
-      },
-      "js": {
-        "main.js": {
-          "type": "-",
-          "size": 2061,
-          "lmtime": 1553167808097,
-          "modified": false
-        }
+        "modified": true
       },
       "robots.txt": {
         "type": "-",
