@@ -17,3 +17,6 @@ everything to my liking.
 5/2/2019---------------fixed ajax calls, all body content is now being pulled from wp. added cards for the education panel code from bootssnip.
 
 5/2/2019B-------- fixed contact form, added footer, changed loader.
+
+5/9/2019----------- finished placing content on the rest of the page , added responsiveness to the site (some of the elements refuse to work proper for me)
+added more images to the page for the awards and schools. removed the footer. added profile for the about section. 
