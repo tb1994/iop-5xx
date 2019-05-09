@@ -1,5 +1,6 @@
 .navbar-new-top{
     background: #fff;
+    
 }
 .navbar-brand{
     font-weight: 600;
@@ -7,6 +8,7 @@
 }
 .navbar-brand img{
     width: 20%;
+    
     
 }
 .navbar-new-top ul{
@@ -54,4 +56,21 @@
     font-weight: 700;
     font-size: 13px;
     cursor: pointer;
+}
+
+@media (min-width: 399px) and (max-width:1000px){
+    .navbar-nav .nav-item a {
+       display: visible;
+        
+    }
+
+    h3 {
+    
+        position: relative;
+        top: 70px;
+        left: 30%;
+    }
+       
+       
+    
 }
