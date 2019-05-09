@@ -52,3 +52,9 @@ figure:hover::after{
     83.333%{background:#f0f;}
     100%{background:#f00;}
 }
+
+@media (min-width:300px) and (max-width: 500px){
+    img{
+        display: none;
+    }
+}
